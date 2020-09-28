@@ -1,7 +1,7 @@
-# University-Management-System
+# Student-Information-System
 
 ### Description
-For this project, I implemented University Management System in C++.
+For this project, I implemented Student Information System in C++.
 
 ### Usage
 
